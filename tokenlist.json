@@ -1,6 +1,6 @@
 {
-    "name": "Arb Whitelist Era",
-    "timestamp": "2023-11-19T10:51:15.329Z",
+    "name": "Reax Tokenlist",
+    "timestamp": "2024-11-19T10:51:15.329Z",
     "version": {
         "major": 1,
         "minor": 0,
@@ -13,7 +13,97 @@
             "name": "REAX Ethereum (Crypto Pool)",
             "symbol": "cETH",
             "decimals": 18,
-            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2837.png",
+            "logoURI": "https://raw.githubusercontent.com/Reax-Finance/assets/main/logos/cETH.png",
+            "extensions": {}
+        },
+        {
+            "chainId": 5000,
+            "address": "0x62959ad021402f48d0d8067bc5c4c03f63fceaa4",
+            "name": "REAX US Dollar (Crypto Pool)",
+            "symbol": "cUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Reax-Finance/assets/main/logos/cUSD.png",
+            "extensions": {}
+        },
+        {
+            "chainId": 5000,
+            "address": "0xc6f2af0fd2fdb03b75f5256c68bbb6e59e3b739b",
+            "name": "REAX Binance Coin (Crypto Pool)",
+            "symbol": "cBNB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Reax-Finance/assets/main/logos/cBNB.png",
+            "extensions": {}
+        },
+        {
+            "chainId": 5000,
+            "address": "0xf7dfe223e19701a514e78f3ce7ba98f2c5fbb5b2",
+            "name": "REAX Bitcoin (Crypto Pool)",
+            "symbol": "cBTC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Reax-Finance/assets/main/logos/cBTC.png",
+            "extensions": {}
+        },
+        {
+            "chainId": 5000,
+            "address": "0x8348b81b9ed72f29e52027c349f30703b42c0110",
+            "name": "REAX Mantle (Crypto Pool)",
+            "symbol": "cMNT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Reax-Finance/assets/main/logos/cMNT.png",
+            "extensions": {}
+        },
+        {
+            "chainId": 5000,
+            "address": "0x0f148bf7a48dc14ee17bb4f81708c1aef20b2397",
+            "name": "REAX Polkadot (Crypto Pool)",
+            "symbol": "cDOT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Reax-Finance/assets/main/logos/cDOT.png",
+            "extensions": {}
+        },
+        {
+            "chainId": 5000,
+            "address": "0x5315586dc37ffce11c532be8073693814ca15170",
+            "name": "REAX Litecoin (Crypto Pool)",
+            "symbol": "cLTC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Reax-Finance/assets/main/logos/cLTC.png",
+            "extensions": {}
+        },
+        {
+            "chainId": 5000,
+            "address": "0x8c1ec9edfcdd0aac3bf1f3a0d01612ee94bd8d6f",
+            "name": "REAX Cardano (Crypto Pool)",
+            "symbol": "cADA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Reax-Finance/assets/main/logos/cADA.png",
+            "extensions": {}
+        },
+        {
+            "chainId": 5000,
+            "address": "0x90412c41aabbbb771a996906dc413da9b7092077",
+            "name": "REAX Solana (Crypto Pool)",
+            "symbol": "cSOL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Reax-Finance/assets/main/logos/cSOL.png",
+            "extensions": {}
+        },
+        {
+            "chainId": 5000,
+            "address": "0x9fe08255c161045bbd84ac867514e17b3f66d5e8",
+            "name": "REAX Ripple (Crypto Pool)",
+            "symbol": "cXRP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Reax-Finance/assets/main/logos/cXRP.png",
+            "extensions": {}
+        },
+        {
+            "chainId": 5000,
+            "address": "0xf334aaf8e25d543c71c0db81beaec34283b88fa5",
+            "name": "REAX Dogecoin (Crypto Pool)",
+            "symbol": "cDOGE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Reax-Finance/assets/main/logos/cDOGE.png",
             "extensions": {}
         }
     ]
